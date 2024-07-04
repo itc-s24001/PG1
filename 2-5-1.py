@@ -1,0 +1,6 @@
+print("abc" + str(2))
+print(type("abc" + str(2)))
+print(int("4"))
+print(type(int("4")))
+print(float("9.8"))
+print(type(float("9.8")))
